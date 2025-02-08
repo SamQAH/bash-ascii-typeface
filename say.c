@@ -7,7 +7,7 @@ int words_width_data[WORDS_LENGTH];
 //FILE *words;
 const int SPACE_POS = 105;
 const int SPACE_WIDTH_POS = 26;
-const int MAX_WIDTH = 150;
+const int MAX_WIDTH = 80;
 
 struct chardata {
     char c;
